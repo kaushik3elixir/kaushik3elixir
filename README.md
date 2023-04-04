@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-✅ 2+ Years in Development </br>
+✅ 6+ Years in Development </br>
 ✅ Available 7 days/week </br>
 ✅ Fast Response </br>
 ✅ Fluent English </br>
@@ -13,13 +13,13 @@
 ✅ 100% Job Success Rate </br>
 ✅ Wide Range of Skills</br>
 
-![](https://komarev.com/ghpvc/?username=Ramila012)
+![](https://komarev.com/ghpvc/?username=kaushik3elixir)
 
 <h3 align="left">🧮 About me</h3>
 
 
 
- I am  Full Stack Developer with over 2+ years of Experience, speaks Fluent English, Quick Learner, out of box thinker, and loves creativity. I’ve served over 100 startups bridging multiple industries: Medical, Crowdfunding,e-learning,Finance,Entertainment,Hospitality,manufacture and marketing
+ I am  Full Stack Developer with over 6+ years of Experience, speaks Fluent English, Quick Learner, out of box thinker, and loves creativity. I’ve served over 100 startups bridging multiple industries: Medical, Crowdfunding,e-learning,Finance,Entertainment,Hospitality,manufacture and marketing
  ##
 
 Strong experience in using the latest approaches including MVC/MVP in the browser, and event-driven applications using NodeJS & ReactJS.
